@@ -175,7 +175,7 @@ body{
   
   .search-bar{
     border: 2px orange solid;
-    color: red;
+    color: orange;
     background-color: #333;
   }
   
@@ -185,7 +185,6 @@ body{
   
   .rednexuslogo{
     margin-top: none;
-    display
   }
   
   img.hover{
